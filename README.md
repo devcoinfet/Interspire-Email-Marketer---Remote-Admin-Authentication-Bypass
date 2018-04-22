@@ -4,6 +4,9 @@
 
 intitle:"Control Panel" + emailmarketer
 https://security.infoteam.ch/en/blog/posts/narrative-of-an-incident-response-from-compromise-to-the-publication-of-the-weakness.html
+
+
+
 https://github.com/joesmithjaffa/CVE-2017-14322
 
 Thanks to everyone above for there research.
